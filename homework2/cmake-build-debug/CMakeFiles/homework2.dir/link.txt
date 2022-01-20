@@ -1,0 +1,1 @@
+/usr/bin/gcc.exe -g  -Wl,--enable-auto-import CMakeFiles/homework2.dir/sh238p.c.o  -o homework2.exe -Wl,--out-implib,libhomework2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

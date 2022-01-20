@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/UCI_MCS/238P/homework3/main.c
+stdlib.h
+-
+unistd.h
+-
+stdio.h
+-
+fcntl.h
+-
+string.h
+-
+assert.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+sys/wait.h
+-
+sys/mman.h
+-
+sys/types.h
+-
+unistd.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/gcc.exe -g  -Wl,--enable-auto-import CMakeFiles/homework1.dir/main-cat238p.c.o  -o homework1.exe -Wl,--out-implib,libhomework1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
